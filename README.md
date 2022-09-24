@@ -14,7 +14,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/Fx4nt-j-.gif" width=250><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/Fx4nt-j-.gif" width=400><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
