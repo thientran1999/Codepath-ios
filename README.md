@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/abMBYVhc.gif" title='Video Walkthrough' width="300" height="300" alt='Video Walkthrough' />
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/abMBYVhc.gif" title='Video Walkthrough' width="300" height="300" alt='Video Walkthrough' >
 
